@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **it_bjacob@icloud.com**
 
-- 👽 Pronouns **he/him**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
