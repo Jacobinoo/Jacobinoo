@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift, Angular, React**.
 
-- 👨‍💻 All of my projects are available at [jacobinoo.github.io (Work in Progress)](jacobinoo.github.io)).
+- 👨‍💻 All of my projects are available at [jacobinoo.github.io (Work in Progress)](jacobinoo.github.io).
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular**
 
