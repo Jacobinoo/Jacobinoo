@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Connect Messenger and Gossip**.
 
-- 🌱 I’m currently learning **Swift, Rust and Angular**.
+- 🌱 I’m currently learning **Swift, Angular, React**.
 
 - 👨‍💻 All of my projects are available at [jacobinoo.github.io (Work in Progress)](jacobinoo.github.io)).
 
