@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A passionate, hobbyist full-stack developer from Poland</h3>
+<h3 align="center">A developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobinoo&label=Profile%20views&color=b18cfe&style=flat" alt="jacobinoo" /> </p>
 
